@@ -1,0 +1,884 @@
+{
+  "images": {
+    "image108.jpg": {
+      "rating": 85.50614192909828,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image134.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image120.jpg": {
+      "rating": -73.20953669722496,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image63.jpg": {
+      "rating": -65.26725990095662,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image77.jpg": {
+      "rating": 100.85913682160277,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image88.jpg": {
+      "rating": 120.10662524321543,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image89.jpg": {
+      "rating": 171.66215248695153,
+      "classification": "VeryGood",
+      "h_classification": "Ok"
+    },
+    "image76.jpg": {
+      "rating": 140.36675688778337,
+      "classification": "Good",
+      "h_classification": "Good"
+    },
+    "image62.jpg": {
+      "rating": -80.32183908045977,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image121.jpg": {
+      "rating": -73.40388561326489,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image135.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image109.jpg": {
+      "rating": -16.62758730785731,
+      "classification": "VeryBad",
+      "h_classification": "Bad"
+    },
+    "image123.jpg": {
+      "rating": -62.19373574212156,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image137.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image74.jpg": {
+      "rating": 95.06981530554108,
+      "classification": "Ok",
+      "h_classification": "Ok"
+    },
+    "image60.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image48.jpg": {
+      "rating": -79.69514356611131,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image49.jpg": {
+      "rating": -77.7978018018018,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image61.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image75.jpg": {
+      "rating": 91.75282856642303,
+      "classification": "Ok",
+      "h_classification": "Good"
+    },
+    "image136.jpg": {
+      "rating": -77.7978018018018,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image122.jpg": {
+      "rating": -63.770997137950786,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image126.jpg": {
+      "rating": -34.21228083162461,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image132.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image8.jpg": {
+      "rating": 91.57503850812533,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image59.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image71.jpg": {
+      "rating": -66.93926203666774,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image65.jpg": {
+      "rating": -64.43325990095659,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image64.jpg": {
+      "rating": -65.16325990095658,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image70.jpg": {
+      "rating": -73.40333224163282,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image58.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image9.jpg": {
+      "rating": 138.00944057656977,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image133.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image127.jpg": {
+      "rating": -1.1670983958385222,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image131.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image125.jpg": {
+      "rating": -48.935510016466964,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image119.jpg": {
+      "rating": -16.391552731304458,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image66.jpg": {
+      "rating": -63.52325990095659,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image72.jpg": {
+      "rating": 40.774480044969074,
+      "classification": "Bad",
+      "h_classification": "VeryBad"
+    },
+    "image99.jpg": {
+      "rating": 112.9940647833989,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image98.jpg": {
+      "rating": 114.85712123324446,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image73.jpg": {
+      "rating": 95.08415664416016,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image67.jpg": {
+      "rating": -63.461259900956605,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image118.jpg": {
+      "rating": 91.60737984419872,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image124.jpg": {
+      "rating": -59.804142519026755,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image130.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image157.jpg": {
+      "rating": -64.7392599009566,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image143.jpg": {
+      "rating": -78.48143689320386,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image14.jpg": {
+      "rating": 73.77887385288147,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image28.jpg": {
+      "rating": -68.80815620616369,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image29.jpg": {
+      "rating": -73.39128425765932,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image15.jpg": {
+      "rating": 116.32455540377154,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image142.jpg": {
+      "rating": -77.7978018018018,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image156.jpg": {
+      "rating": -65.29525990095658,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image168.jpg": {
+      "rating": 154.57544057656978,
+      "classification": "VeryGood",
+      "h_classification": "Bad"
+    },
+    "image140.jpg": {
+      "rating": -77.80180180180182,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image154.jpg": {
+      "rating": -73.41044474700277,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image17.jpg": {
+      "rating": 135.85403746188848,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image16.jpg": {
+      "rating": 110.19864708781769,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image155.jpg": {
+      "rating": -65.50725990095663,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image141.jpg": {
+      "rating": -77.7978018018018,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image169.jpg": {
+      "rating": 185.4301950862412,
+      "classification": "VeryGood",
+      "h_classification": "Bad"
+    },
+    "image145.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image151.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image12.jpg": {
+      "rating": 93.28980163455466,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image13.jpg": {
+      "rating": -57.58395723865172,
+      "classification": "VeryBad",
+      "h_classification": "Bad"
+    },
+    "image150.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image144.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image152.jpg": {
+      "rating": -77.7978018018018,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image146.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image39.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image11.jpg": {
+      "rating": 126.78688577679986,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image10.jpg": {
+      "rating": 98.17414471478915,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image38.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image147.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image153.jpg": {
+      "rating": -78.48143689320386,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image176.jpg": {
+      "rating": 93.69485384290306,
+      "classification": "Ok",
+      "h_classification": "Ok"
+    },
+    "image162.jpg": {
+      "rating": -73.40333224163282,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image21.jpg": {
+      "rating": 165.2493177356461,
+      "classification": "VeryGood",
+      "h_classification": "Ok"
+    },
+    "image35.jpg": {
+      "rating": 1.472815221627485,
+      "classification": "Bad",
+      "h_classification": "VeryBad"
+    },
+    "image34.jpg": {
+      "rating": -36.83983950855787,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image20.jpg": {
+      "rating": 181.74370250279148,
+      "classification": "VeryGood",
+      "h_classification": "Ok"
+    },
+    "image163.jpg": {
+      "rating": -69.45778269455434,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image149.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image161.jpg": {
+      "rating": -73.40333224163282,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image175.jpg": {
+      "rating": 128.00352311485358,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image36.jpg": {
+      "rating": 22.241967284690844,
+      "classification": "Bad",
+      "h_classification": "VeryBad"
+    },
+    "image22.jpg": {
+      "rating": 131.1701419290983,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image23.jpg": {
+      "rating": 175.55328127538763,
+      "classification": "VeryGood",
+      "h_classification": "Bad"
+    },
+    "image37.jpg": {
+      "rating": -73.40288096421463,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image174.jpg": {
+      "rating": 107.59302509450289,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image160.jpg": {
+      "rating": -73.4151157228176,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image148.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image164.jpg": {
+      "rating": 29.6384800449691,
+      "classification": "Bad",
+      "h_classification": "VeryBad"
+    },
+    "image170.jpg": {
+      "rating": 170.72529328087646,
+      "classification": "VeryGood",
+      "h_classification": "Bad"
+    },
+    "image158.jpg": {
+      "rating": -63.701259900956615,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image33.jpg": {
+      "rating": -49.96949165056088,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image27.jpg": {
+      "rating": 13.833367822626471,
+      "classification": "Bad",
+      "h_classification": "VeryBad"
+    },
+    "image26.jpg": {
+      "rating": 133.79894621712012,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image32.jpg": {
+      "rating": -56.29594619027051,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image159.jpg": {
+      "rating": -64.5639772985244,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image171.jpg": {
+      "rating": 125.26796867010484,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image165.jpg": {
+      "rating": 94.93072420292506,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image173.jpg": {
+      "rating": 159.5782494908956,
+      "classification": "VeryGood",
+      "h_classification": "VeryBad"
+    },
+    "image167.jpg": {
+      "rating": 103.48328127538765,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image18.jpg": {
+      "rating": 97.89006936807769,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image24.jpg": {
+      "rating": 145.4182494908956,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image30.jpg": {
+      "rating": -61.524171959333444,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image31.jpg": {
+      "rating": -59.564142519026746,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image25.jpg": {
+      "rating": 110.44882579721656,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image19.jpg": {
+      "rating": 124.06696281680988,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image166.jpg": {
+      "rating": 95.03458929477057,
+      "classification": "Ok",
+      "h_classification": "Ok"
+    },
+    "image172.jpg": {
+      "rating": 149.06968739751125,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image129.jpg": {
+      "rating": -73.51647460828616,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image115.jpg": {
+      "rating": 140.78399455208256,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image101.jpg": {
+      "rating": 135.64311668517803,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image7.jpg": {
+      "rating": 131.35740798897183,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image42.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image56.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image81.jpg": {
+      "rating": 44.92180029960315,
+      "classification": "Bad",
+      "h_classification": "Bad"
+    },
+    "image95.jpg": {
+      "rating": 102.58189826747852,
+      "classification": "Good",
+      "h_classification": "VeryGood"
+    },
+    "image94.jpg": {
+      "rating": 172.17459641586152,
+      "classification": "VeryGood",
+      "h_classification": "VeryGood"
+    },
+    "image57.jpg": {
+      "rating": -78.48143689320386,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image43.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image6.jpg": {
+      "rating": 122.51327089468265,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image100.jpg": {
+      "rating": 144.9776722840922,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image114.jpg": {
+      "rating": 129.49537396849811,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image128.jpg": {
+      "rating": 21.072165461235883,
+      "classification": "Bad",
+      "h_classification": "VeryBad"
+    },
+    "image102.jpg": {
+      "rating": 114.2306519183147,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image4.jpg": {
+      "rating": 35.265734549299395,
+      "classification": "Bad",
+      "h_classification": "Bad"
+    },
+    "image116.jpg": {
+      "rating": 172.60702698954987,
+      "classification": "VeryGood",
+      "h_classification": "Bad"
+    },
+    "image55.jpg": {
+      "rating": -80.32183908045977,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image41.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image69.jpg": {
+      "rating": -73.40333224163282,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image96.jpg": {
+      "rating": 117.20291603105387,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image82.jpg": {
+      "rating": 114.03370054073375,
+      "classification": "Good",
+      "h_classification": "Ok"
+    },
+    "image83.jpg": {
+      "rating": 128.23201900682957,
+      "classification": "Good",
+      "h_classification": "VeryGood"
+    },
+    "image97.jpg": {
+      "rating": 158.68783106226022,
+      "classification": "VeryGood",
+      "h_classification": "Ok"
+    },
+    "image68.jpg": {
+      "rating": -73.39720134094179,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image40.jpg": {
+      "rating": -77.7978018018018,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image54.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image117.jpg": {
+      "rating": 95.08155519543156,
+      "classification": "Ok",
+      "h_classification": "Ok"
+    },
+    "image5.jpg": {
+      "rating": 123.97400344797461,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image103.jpg": {
+      "rating": -13.176642740382604,
+      "classification": "VeryBad",
+      "h_classification": "Bad"
+    },
+    "image107.jpg": {
+      "rating": 53.80177601987893,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image1.jpg": {
+      "rating": 52.07700385693974,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image113.jpg": {
+      "rating": 149.14320269114558,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image78.jpg": {
+      "rating": 108.16727451495605,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image50.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image44.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image93.jpg": {
+      "rating": 155.5216944431525,
+      "classification": "VeryGood",
+      "h_classification": "VeryGood"
+    },
+    "image87.jpg": {
+      "rating": 76.68101104176523,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image86.jpg": {
+      "rating": 83.53307473586834,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image92.jpg": {
+      "rating": 140.3803302894966,
+      "classification": "Good",
+      "h_classification": "VeryGood"
+    },
+    "image45.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image51.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image79.jpg": {
+      "rating": -74.92795909889762,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image112.jpg": {
+      "rating": 71.35727847037691,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image0.jpg": {
+      "rating": 155.80405863568458,
+      "classification": "VeryGood",
+      "h_classification": "VeryGood"
+    },
+    "image106.jpg": {
+      "rating": 44.885297579579984,
+      "classification": "Bad",
+      "h_classification": "Bad"
+    },
+    "image110.jpg": {
+      "rating": 153.1511568479871,
+      "classification": "VeryGood",
+      "h_classification": "Bad"
+    },
+    "image104.jpg": {
+      "rating": 89.47558152871471,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image2.jpg": {
+      "rating": 88.46231850653837,
+      "classification": "Ok",
+      "h_classification": "Ok"
+    },
+    "image138.jpg": {
+      "rating": -77.7978018018018,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image47.jpg": {
+      "rating": -78.08945794392523,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image53.jpg": {
+      "rating": -77.7978018018018,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image84.jpg": {
+      "rating": 105.43638485995558,
+      "classification": "Good",
+      "h_classification": "Good"
+    },
+    "image90.jpg": {
+      "rating": 171.3000782968017,
+      "classification": "VeryGood",
+      "h_classification": "VeryGood"
+    },
+    "image91.jpg": {
+      "rating": 90.11099498105753,
+      "classification": "Ok",
+      "h_classification": "VeryGood"
+    },
+    "image85.jpg": {
+      "rating": 24.15179843862707,
+      "classification": "Bad",
+      "h_classification": "Ok"
+    },
+    "image52.jpg": {
+      "rating": -78.48143689320386,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image46.jpg": {
+      "rating": -77.7978018018018,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image139.jpg": {
+      "rating": -77.80180180180182,
+      "classification": "VeryBad",
+      "h_classification": "VeryBad"
+    },
+    "image3.jpg": {
+      "rating": 89.73913889291197,
+      "classification": "Ok",
+      "h_classification": "Bad"
+    },
+    "image105.jpg": {
+      "rating": 132.8077514822528,
+      "classification": "Good",
+      "h_classification": "Bad"
+    },
+    "image111.jpg": {
+      "rating": 122.90591632991249,
+      "classification": "Good",
+      "h_classification": "Bad"
+    }
+  }
+}
